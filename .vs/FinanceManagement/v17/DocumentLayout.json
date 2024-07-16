@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyle\\source\\repos\\FinanceManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{68A83C88-F66F-49C8-B55B-E1CB0F78A230}|FinanceManagement\\FinanceManagement.csproj|c:\\users\\kyle\\source\\repos\\financemanagement\\financemanagement\\utilities\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A83C88-F66F-49C8-B55B-E1CB0F78A230}|FinanceManagement\\FinanceManagement.csproj|solutionrelative:financemanagement\\utilities\\filemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A83C88-F66F-49C8-B55B-E1CB0F78A230}|FinanceManagement\\FinanceManagement.csproj|C:\\Users\\kyle\\source\\repos\\FinanceManagement\\financemanagement\\account\\accountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A83C88-F66F-49C8-B55B-E1CB0F78A230}|FinanceManagement\\FinanceManagement.csproj|solutionrelative:financemanagement\\account\\accountmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68A83C88-F66F-49C8-B55B-E1CB0F78A230}|FinanceManagement\\FinanceManagement.csproj|C:\\Users\\kyle\\source\\repos\\FinanceManagement\\financemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68A83C88-F66F-49C8-B55B-E1CB0F78A230}|FinanceManagement\\FinanceManagement.csproj|solutionrelative:financemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileManager.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\source\\repos\\FinanceManagement\\FinanceManagement\\Utilities\\FileManager.cs",
+              "RelativeDocumentMoniker": "FinanceManagement\\Utilities\\FileManager.cs",
+              "ToolTip": "C:\\Users\\kyle\\source\\repos\\FinanceManagement\\FinanceManagement\\Utilities\\FileManager.cs",
+              "RelativeToolTip": "FinanceManagement\\Utilities\\FileManager.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowEoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:20:45.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountManagement.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\source\\repos\\FinanceManagement\\FinanceManagement\\Account\\AccountManagement.cs",
+              "RelativeDocumentMoniker": "FinanceManagement\\Account\\AccountManagement.cs",
+              "ToolTip": "C:\\Users\\kyle\\source\\repos\\FinanceManagement\\FinanceManagement\\Account\\AccountManagement.cs",
+              "RelativeToolTip": "FinanceManagement\\Account\\AccountManagement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:14:40.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyle\\source\\repos\\FinanceManagement\\FinanceManagement\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\kyle\\source\\repos\\FinanceManagement\\FinanceManagement\\Program.cs",
+              "RelativeToolTip": "FinanceManagement\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T08:06:26.003Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
